@@ -177,7 +177,7 @@ seaborn==0.12.2
 Send2Trash==1.8.0
 shapely==2.0.1
 six==1.16.0
-scikit-learn==0.0.post1
+scikit-learn>=0.0.post1,<1.3
 smmap==5.0.1
 sniffio==1.3.0
 snscrape==0.6.2.20230320
